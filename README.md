@@ -20,9 +20,9 @@ between two accounts, and viewing transaction history.
 
 ## System Design & Flow Chart:
 
-![System Design](https://github.com/hariprabhu571/Bank_Management_System/blob/main/Extras/Screenshots/SystemDesign.png)
+![System Design](https://github.com/hariprabhu571/Bank-Management-System/blob/main/Extras/Screenshots/SystemDesign.png)
 
-![Flow Chart](https://github.com/hariprabhu571/Bank_Management_System/blob/main/Extras/Screenshots/Flowchart.png)
+![Flow Chart](https://github.com/hariprabhu571/Bank-Management-System/blob/main/Extras/Screenshots/Flowchart.png)
 
 ## Project Screenshots:
 **Login Page:**
@@ -30,7 +30,7 @@ Administrator(user) have to insert his credentials to access the system. All the
 data of the administrator is already stored in the database. If the credentials does not match, the
 user does not have access to the system. 
 
-![Login Page](https://github.com/hariprabhu571/Bank_Management_System/blob/main/Extras/Screenshots/ss1.png)
+![Login Page](https://github.com/hariprabhu571/Bank-Management-System/blob/main/Extras/Screenshots/ss1.png)
 
 **Main Menu:** 
 Through this page the user can add a customer, create account, deposit,
