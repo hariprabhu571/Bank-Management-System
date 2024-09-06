@@ -20,7 +20,7 @@ between two accounts, and viewing transaction history.
 
 ## System Design & Flow Chart:
 
-![System Design](https://github.com/hariprabhu571/Bank-Management-System/blob/main/Extras/Screenshots/SystemDesign.png)
+![System Design](https://github.com/hariprabhu571/Bank-Management-System/main/Extras/Screenshots/SystemDesign.png)
 
 ![Flow Chart](https://github.com/hariprabhu571/Bank-Management-System/blob/main/Extras/Screenshots/Flowchart.png)
 
